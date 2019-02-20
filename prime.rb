@@ -8,6 +8,7 @@ def prime?(num)
       if num % i == 0
         puts num
         puts i
+        puts num % i 
         false
         break
       end

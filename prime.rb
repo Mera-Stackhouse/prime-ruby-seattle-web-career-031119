@@ -13,4 +13,4 @@ def prime?(num)
   end
 end
 
-puts prime?(2)
+puts prime?(3)

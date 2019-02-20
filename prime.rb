@@ -4,6 +4,7 @@ def prime?(num)
   if num < 2
     puts "Not a valid input"
     false
+    break
   else
     for i in 2..(num - 1)
       if num % i == 0

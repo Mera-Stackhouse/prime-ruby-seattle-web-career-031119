@@ -14,8 +14,8 @@ def prime?(num)
         break
         puts "hello"
       end
+      true 
     end
-    true
   end
 end
 

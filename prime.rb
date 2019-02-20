@@ -15,4 +15,4 @@ def prime?(num)
   end
 end
 
-puts prime?(5)
+puts prime?(4)

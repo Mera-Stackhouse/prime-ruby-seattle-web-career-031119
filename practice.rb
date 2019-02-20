@@ -1,4 +1,5 @@
-num = 6
+num = 7
+
 
 for i in 2..(num - 1)
   if num % i == 0

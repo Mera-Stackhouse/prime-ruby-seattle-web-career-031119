@@ -9,9 +9,9 @@ def prime?(num)
         puts num
         puts i
         puts num % i 
-        false
+        return false
       end
-      true 
+      return true 
     end
   end
 end

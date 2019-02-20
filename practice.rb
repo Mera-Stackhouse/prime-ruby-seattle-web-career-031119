@@ -1,4 +1,4 @@
-num = 10
+num = 11
 
 
 for i in 2..(num - 1)

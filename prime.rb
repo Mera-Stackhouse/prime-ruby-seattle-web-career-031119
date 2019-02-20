@@ -10,6 +10,7 @@ def prime?(num)
         puts i
         puts num % i 
         false
+        puts "hello"
         break
       end
     end

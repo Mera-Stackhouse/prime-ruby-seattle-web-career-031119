@@ -12,6 +12,7 @@ def prime?(num)
         false
         puts "hello"
         break
+        puts "hello"
       end
     end
     true

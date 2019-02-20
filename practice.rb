@@ -1,4 +1,4 @@
-num = 7
+num = 8
 
 
 for i in 2..(num - 1)

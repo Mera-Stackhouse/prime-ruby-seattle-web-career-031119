@@ -6,14 +6,11 @@ def prime?(num)
   else
     for i in 2..(num - 1)
       if num % i == 0
-        puts num
-        puts i
-        puts num % i 
         return false
       end
-      return true 
     end
+    true
   end
 end
 
-puts prime?(4)
+puts prime?(2)
